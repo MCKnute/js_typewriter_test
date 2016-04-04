@@ -1,4 +1,4 @@
-js_scroll
+Javascript Typewriter Effect
 =========
 
-Exercise for the CodingDojo's Javascript course.  See the learning platform to see how you should improve the codes.  There are several bugs with the codes which are intentional. :)
+This was a simple exercise for the CodingDojo's Javascript course. Enjoy!
